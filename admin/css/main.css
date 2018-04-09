@@ -1,0 +1,130 @@
+body {
+     background-image: url(https://www.toptal.com/designers/subtlepatterns/patterns/dark_wall.png);
+     font-family: 'Quicksand', sans-serif;
+     color: white;
+}
+ .add{
+    width: 5%;
+}
+ .filterNav{
+    text-align: center;
+}
+ .allFilter{
+     font-size: 30px;
+     text-decoration: underline;
+}
+
+ input{
+     margin: auto;
+     width: 50%;
+}
+ label{
+    margin-right: 150px;
+}
+ .email{
+    margin-right: 200px;
+}
+form{
+	margin: 0 auto;
+	width: 50%;
+	text-align: center;
+}
+ .input{
+     border-radius: 5px;
+     border: 3px solid rgba(255, 255, 255, 0.5);
+     background: rgba(255, 255, 255, 1);
+     font-family: 'Quicksand', sans-serif;
+     color: black;
+     font-size: 20px;
+}
+ .input:hover{
+     background: rgba(255, 255, 255, 0.1);
+     color: white;
+}
+ .select{
+     border-radius: 5px;
+     border: 3px solid rgba(255, 255, 255, 0.5);
+     background: rgba(255, 255, 255, 1);
+     font-family: 'Quicksand', sans-serif;
+     color: black;
+     padding: 2px;
+     width: 20%;
+     font-size: 20px;
+}
+ .submit{
+     border-radius: 5px;
+     border: 3px solid rgba(255, 255, 255, 0.5);
+     background: rgba(255, 255, 255, 1);
+     font-family: 'Quicksand', sans-serif;
+     color: black;
+     padding: 2px;
+     width: 180px;
+     font-size:18px;
+     margin: auto;
+}
+ .submit:hover{
+     background: rgba(255, 255, 255, 0.1);
+     color: white;
+}
+ a{
+     color: white;
+     font-family: 'Quicksand', sans-serif;
+     font-size: 22px;
+     padding: 0;
+}
+ video{
+     margin-left:auto;
+}
+ .title{
+     font-family: 'Quicksand', sans-serif;
+     font-size: 30px;
+}
+ .maintitle{
+     font-size: 20px;
+}
+ .cover{
+    text-align: left;
+}
+ .year{
+     font-family: 'Quicksand', sans-serif;
+     font-size: 20px;
+     text-align: left;
+}
+ .maindetails{
+     font-size: 18px;
+}
+ .storyline{
+     font-family: 'Quicksand', sans-serif;
+     font-size: 22px;
+     text-align: center;
+}
+ .back{
+     font-family: 'Quicksand', sans-serif;
+     font-size: 18px;
+     text-align: center;
+}
+ img{
+    text-align: left;
+}
+ .welcome, .greeting, .usersettings{
+     text-align: center;
+     font-family: 'Quicksand', sans-serif;
+     padding-bottom: 20px;
+}
+ .usersettings a{
+     text-align: center;
+     font-family: 'Quicksand', sans-serif;
+     font-size: 28px;
+     text-decoration: none;
+}
+ .usersettings a:hover{
+     font-size: 30px;
+     text-decoration: underline;
+}
+ ul li{
+     list-style-type: none;
+     display: inline;
+}
+ ul li a {
+    text-decoration: none;
+}
